@@ -6,7 +6,7 @@
 ![Pantalla Principales](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/Screenshot_003.png "Pantalla 03")
 ![Pantalla Principales](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/Screenshot_004.png "Pantalla 04")
 
-**MI pag [Darwin Uzcategui y Codigo qr](https://darwinuzcategui1973.github.io/miPaginaWeb/"pagina de Darwin Uzcategui")
+#### My pag [Darwin Uzcategui y Codigo qr](https://darwinuzcategui1973.github.io/miPaginaWeb/)
 
 ![QR](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/qr_mi_PaginaWEbPersonal.png "QR")
 
