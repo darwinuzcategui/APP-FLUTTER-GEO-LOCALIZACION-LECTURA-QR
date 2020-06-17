@@ -1,8 +1,21 @@
-# pruebamapa
+# App de Maps y Lectura Qr
 
-prueba mapa
+## Pantalla App
+![Pantalla Principales](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/Screenshot_001.png "Pantalla 01")
+![Pantalla Principales](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/Screenshot_002.png "Pantalla 02")
+![Pantalla Principales](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/Screenshot_003.png "Pantalla 03")
+![Pantalla Principales](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/Screenshot_004.png "Pantalla 04")
 
-## Getting Started
+**MI pag [Darwin Uzcategui y Codigo qr](https://darwinuzcategui1973.github.io/miPaginaWeb/"pagina de Darwin Uzcategui")
+
+![QR](https://github.com/darwinuzcategui/APP-FLUTTER-GEO-LOCALIZACION-LECTURA-QR/blob/master/pantallas/qr_mi_PaginaWEbPersonal.png "QR")
+
+
+
+
+app mapa  qr
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
