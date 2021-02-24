@@ -97,14 +97,16 @@ class _HomePageState extends State<HomePage> {
       },
       items: [
         BottomNavigationBarItem(
-            icon: Icon(Icons.map),
-            // ignore: deprecated_member_use
-            title: Text('Mapas')),
+          icon: Icon(Icons.map),
+          label: 'Mapa',
+        ),
         BottomNavigationBarItem(
-            icon: Icon(Icons.brightness_5),
-            // ignore: deprecated_member_use
-            title: Text('Direcciones')),
+          icon: Icon(Icons.exit_to_app),
+          label: 'Direccion',
+        ),
       ],
+      selectedLabelStyle: TextStyle(fontSize: 22),
+      selectedItemColor: Colors.red,
     );
   }
 }
