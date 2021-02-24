@@ -98,11 +98,11 @@ class _HomePageState extends State<HomePage> {
       items: [
         BottomNavigationBarItem(
           icon: Icon(Icons.map),
-          label: 'Mapa',
+          label: 'Mapa->',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.exit_to_app),
-          label: 'Direccion',
+          label: 'Direccion->',
         ),
       ],
       selectedLabelStyle: TextStyle(fontSize: 22),
