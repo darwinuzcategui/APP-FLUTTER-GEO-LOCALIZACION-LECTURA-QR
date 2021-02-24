@@ -29,4 +29,5 @@ jobs:
       - run: flutter pub get
       - run: flutter test
       - run: flutter build apk
-      - run: flutter build ios
+      - run: flutter build ipa
+      
